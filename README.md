@@ -12,15 +12,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ---
 
-## Skills & Evidence
+## Skills
 
-| Skill | Evidence |
-|------|---------|
-| Linux Command-Line Analysis | [Auth Log & Process Review Notes](./Linux-Analysis/) |
-| Bash Scripting Fundamentals | [Log Parsing & Automation Scripts](./Bash-Scripts/) |
-| Process & Service Inspection | [Suspicious Process Investigation](./Endpoint-Investigations/) |
-| Network Connection Analysis | [Network Traffic & netstat Analysis](./Network-Analysis/) |
-| SOC & Incident Response Concepts | [Incident Triage & Case Notes](./SOC-Investigations/) 
+| Skills |
+|------|
+| Linux Command-Line Analysis |  |
+| Bash Scripting Fundamentals |  |
+| Process & Service Inspection |  |
+| Network Connection Analysis |  |
+| SOC & Incident Response Concepts | 
 
 ---
 
